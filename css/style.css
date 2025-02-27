@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding: 1px 50px;
+
+}
+header logo{}
+header logo h3{
+    font-size: 20px;
+    margin: 0;
+    text-transform: capitalize;
+   
+}
+.logo h3{
+   font-size: 25px;
+}
+.logo h3 span{
+    font-weight: 200;
+}
+nav{}
+nav ul{
+    display: inline;
+} 
+nav ul li{
+    display: inline;
+    margin: 24px;
+}
+nav ul a{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+
+}
